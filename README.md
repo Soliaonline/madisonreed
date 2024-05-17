@@ -1,4 +1,7 @@
 # madison-reed
+Clone repo
+Extract fsv-front-end (would not let me upload)
+
 
 # Front End
 npm install -g @vue/cli
